@@ -2,7 +2,7 @@
 
 A simple REST API built with **Node.js**, **Express** and **PostgreSQL**. It serves a list of users and supports the four basic operations: **GET, POST, PUT and DELETE**.
 
-> This repository accompanies the lesson **"Build a REST API With Node.js and PostgreSQL (GET, POST, PUT, DELETE) – Step by Step"** published on **The Genius Blog**.
+> This repository accompanies the lesson [**"Build a REST API With Node.js and PostgreSQL (GET, POST, PUT, DELETE) – Step by Step"**](https://kindsonthegenius.com/blog/build-a-rest-api-with-node-js-and-postgresql-get-post-putdelete-step-by-step/) published on **The Genius Blog**.
 
 ## Author
 
@@ -222,6 +222,6 @@ curl -X DELETE http://localhost:3300/users/1
 
 ## Credits
 
-Original lesson: *Build a REST API With Node.js and PostgreSQL (GET, POST, PUT, DELETE) – Step by Step* by **Kindson Munonye (Kindson The Genius)**, [The Genius Blog](https://www.thegeniusblog.com) — powered by Datarmatics.
+Original lesson: *Build a REST API With Node.js and PostgreSQL (GET, POST, PUT, DELETE) – Step by Step* by **Kindson Munonye (Kindson The Genius)**, [The Genius Blog](https://kindsonthegenius.com/blog/build-a-rest-api-with-node-js-and-postgresql-get-post-putdelete-step-by-step/) — powered by Datarmatics.
 
 Thanks and happy learning!
